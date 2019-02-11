@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.2.1",
+    "commander": "^2.19.0",
+    "csvtojson": "^2.0.8",
     "fs": "0.0.1-security",
     "fs-promise": "^2.0.3",
     "mongo": "^0.1.0",
